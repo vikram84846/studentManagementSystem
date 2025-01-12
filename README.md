@@ -59,9 +59,7 @@ https://smswithdjango.herokuapp.com/
 
 
 
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
+
 
 
 ## Passport/Images
